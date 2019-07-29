@@ -1,6 +1,6 @@
 # qthelplike-doxygen
 
-Make Doxygen generated documentation readbale in the Qt Help plugin.
+Make Doxygen generated documentation readable in the Qt Help plugin.
 
 **Note:** *In order to use this you need Doxygen already installed in your system.*
 
