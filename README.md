@@ -35,7 +35,7 @@ This is still a work in progress but at least the documentation should be readab
 
 6. In order to associate the documentation in Qt Creator go to Preferences > Help, in Documentation click Add and select the file named `MyDoc.qch` under the `docs` folder.
 
-   ![image](https://drive.google.com/uc?export=view&id=1SEUfKF0PJ2Xl4pNG29kWGMCpHlaMMnSH) "Add help file in Qt Creator")
+   ![image](https://drive.google.com/uc?export=view&id=1SEUfKF0PJ2Xl4pNG29kWGMCpHlaMMnSH) 
 
 7. Now you should be able to read the documentation of your project using the Qt Creator help.
 
