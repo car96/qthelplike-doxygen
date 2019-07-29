@@ -10,7 +10,7 @@ This is still a work in progress but at least the documentation should be readab
 
 ## How to
 
-1. Create a `docs ` folder inside your project's folder (you should consider put this directory in the .gitignore file).
+1. Create a `docs` folder inside your project's folder (you should consider put this directory in the .gitignore file).
 
 2. Copy the files `doxyfile.cfg` and `daaaxygenstyle.css` in that folder.
 
